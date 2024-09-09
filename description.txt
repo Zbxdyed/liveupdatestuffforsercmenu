@@ -4,5 +4,5 @@
         <color=blue>[-Serc Menu-]</color>
                 
                      
-        Menu Status <color=red>[-DETECTED-]</color>
+        Menu Status <color=green>[-UNDETECTED-]</color>
 

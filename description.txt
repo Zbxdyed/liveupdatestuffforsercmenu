@@ -3,6 +3,7 @@
 
         <color=blue>[-Serc Menu-]</color>
                 
-      These Updates Are Live So They Can Change At Any Time          
+      These Updates Are Live So They Can Change At Any Time  
+                Serc Menu Website https://serc.pro
         Menu Status <color=green>[-UNDETECTED-]</color>
 

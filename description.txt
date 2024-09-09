@@ -1,9 +1,8 @@
-<color=yellow>[-Kaen.Kaen-]</color>\n" +
-                "\n " +
-                "This is Version 1.0.0 of Kaen.Kaen\n" +
-            "this menu was made by Novuh(Kaen). If you have any mod\n" +
-            "suggestions or want to report bugs, you can DM me at \n" +
-            "(@Kaen.Kaen) on Discord. Anyways, this menu is very \n" +
-            "customizable, so have fun and don't get banned.\n" +
-            "<color=red>Kaen\n" +
-            "is not responsible for any bans while using this menu.</color>";
+        
+
+
+        <color=blue>[-Serc Menu-]</color>
+                
+                     
+        Menu Status <color=green>[-UNDETECTED-]</color>
+

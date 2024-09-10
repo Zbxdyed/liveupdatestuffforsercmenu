@@ -1,9 +1,9 @@
         
 
 
-        <color=gray>[-Serc Menu-]</color>
+        <color=black>[-Serc Menu-]</color>
                 
       These Updates Are Live So They Can Change At Any Time  
-           Serc Menu Website <color=gray>https://serc.pro</color>
+           Serc Menu Website <color=black>https://serc.pro</color>
         Menu Status <color=green>[-UNDETECTED-]</color>
 

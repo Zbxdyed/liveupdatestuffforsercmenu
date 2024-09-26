@@ -5,5 +5,5 @@
                 
       These Updates Are Live So They Can Change At Any Time  
            Serc Menu Website <color=blue>https://serc.pro</color>
-        Menu Status <color=yellow>[-MAYBE DETECTED-]</color>
+        Menu Status <color=green>[-UNDETECTED-]</color>
 

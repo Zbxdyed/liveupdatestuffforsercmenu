@@ -3,7 +3,7 @@
 
         <color=blue>[-serc.pro-]</color>
                 
-      These Updates Are Live So They Can Change At Any Time  
-           Serc Menu Website <color=blue>https://serc.pro</color>
-        Menu Status <color=green>[-UNDETECTED-]</color>
+         The Menu Has Been Discontinued
+         Serc Menu Website <color=blue>https://serc.pro</color>
+        Menu Status <color=yellow>[-Maybe Detected-]</color>
 

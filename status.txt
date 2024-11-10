@@ -1,0 +1,4 @@
+Services
+---------------------------------------
+Bot Status: All systems are operational.
+Gorilla Tag Menu Status: Discontinued

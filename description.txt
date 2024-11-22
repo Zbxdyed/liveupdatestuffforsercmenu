@@ -3,7 +3,8 @@
 
         <color=blue>[-serc.pro-]</color>
                 
-         The Menu Has Been Discontinued
+         Coming Back Soon
          Serc Menu Website <color=blue>https://serc.pro</color>
-        Menu Status <color=yellow>[-Maybe Detected-]</color>
+         discord.gg/serc
+        Menu Status <color=blue>[-being redid-]</color>
 

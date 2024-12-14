@@ -1,10 +1,6 @@
         
 
 
-        <color=blue>[-serc.pro-]</color>
-                
-         Coming Back Soon
-         Serc Menu Website <color=blue>https://serc.pro</color>
-         discord.gg/serc
-        Menu Status <color=blue>[-being redid-]</color>
+        <color=blue>[-Phoenix.gg-]</color>
+        Menu Status <color=green>[-undetected-]</color>
 
